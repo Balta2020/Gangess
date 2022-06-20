@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Barca.pt" group-title="ALL",BARCA TV
+http://93.152.174.144:4000/play/barcatv/index.m3u8
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="ALL",BBC1
+http://93.152.174.144:4000/play/bbc1/index.m3u8
+#EXTINF:0 tvg-id="BBC2.uk" group-title="ALL",BBC2
+http://93.152.174.144:4000/play/bbc2/index.m3u8
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="ALL",BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="ALL",BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="ALL",BT SPORT ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALL",BTSPORT3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:0 tvg-id="BeINLaLiga.es" group-title="ALL",Bein LaLiga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALL",Bein Sport 1 AR
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="ALL",Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALL",Bein Sport 4 ar
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="ALL",Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALL",Bein Sports 3 AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="ALL",Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALL",Bein Sports 5 AR
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALL",Bein Sports 7 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALL",Cuatro HD SP
+http://93.152.174.144:4000/play/cuatrosp/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALL",Energy SP
+http://93.152.174.144:4000/play/energysp/index.m3u8
+#EXTINF:0 tvg-id="Film4.uk" group-title="ALL",Film4
+http://93.152.174.144:4000/play/film4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALL",ITV_1
+http://93.152.174.144:4000/play/itv1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALL",ITV_2
+http://93.152.174.144:4000/play/itv2/index.m3u8
+#EXTINF:0 tvg-id="PINKoTV.ero" group-title="ALL",PinkoTV
+http://93.152.174.144:4000/play/pinkotv/index.m3u8
+#EXTINF:0 tvg-id="RedlightHD.ero" group-title="ALL",Redlight
+http://93.152.174.144:4000/play/privatetv1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALL",SIC Notiacias PT
+http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
+#EXTINF:0 tvg-id="sic.pt" group-title="ALL",SIC PT
+http://93.152.174.144:4000/play/sic/index.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="ALL",SPORT TV 1 PT
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="ALL",Sky Sports 1
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+#EXTINF:0 tvg-id="SkySports2.uk" group-title="ALL",Sky Sports 2
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF:0 tvg-id="SkySports3.uk" group-title="ALL",Sky Sports 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8
+#EXTINF:0 tvg-id="SkySports4.uk" group-title="ALL",Sky Sports 4
+http://93.152.174.144:4000/play/skysports4/index.m3u8
+#EXTINF:0 tvg-id="SkySports5.uk" group-title="ALL",Sky Sports 5
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="ALL",Sky Sports News
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="ALL",Sky Sports f1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:0 tvg-id="WWE.ca" group-title="ALL",WWE NETWORK
+http://93.152.174.144:4000/play/WWE/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALL",ZEE IN
+http://93.152.174.144:4000/play/zee/index.m3u8
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="ALL",Zee Action IN
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="-",SPORT TV 1 PT
+http://93.152.174.144:4000/play/a00f/index.m3u8
